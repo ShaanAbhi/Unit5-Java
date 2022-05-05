@@ -1,0 +1,23 @@
+Q-  ‘this’ and ‘super’ keyword in java
+
+super Keyword
+A reserved keyword used to call the base class method or variable is known as a super keyword. 
+We cannot use the super keyword as an identifier. 
+The super keyword is not only used to refer to the base class instance but also static members too.
+
+super() Constructor
+The super() is mainly used for invoking base class member functions and constructors.
+
+this keyword
+It is a reserved keyword in Java that is used to refer to the current class object. 
+It is a reference variable through which the method is called. Other uses of this keyword are:
+
+
+We can use it to refer current class instance variable.
+We can use it to invoke the current class method (implicitly).
+We can pass it as an argument in the method and constructor calls.
+We can also use it for returning the current class instance from the method.
+
+this() Constructor
+
+The constructor is used to call one constructor from the other of the same class. 
